@@ -1,0 +1,42 @@
+[submodule "src/Nuked/Component/Defy"]
+	path = src/Nuked/Component/Defy
+	url = https://github.com/donaldinou/nuked-module-defy.git
+[submodule "src/Nuked/Component/Contact"]
+	path = src/Nuked/Component/Contact
+	url = https://github.com/donaldinou/nuked-module-contact.git
+[submodule "src/Nuked/Component/Comment"]
+	path = src/Nuked/Component/Comment
+	url = https://github.com/donaldinou/nuked-module-comment.git
+[submodule "src/Nuked/Component/Calendar"]
+	path = src/Nuked/Component/Calendar
+	url = https://github.com/donaldinou/nuked-module-calendar.git
+[submodule "src/Nuked/Component/Archives"]
+	path = src/Nuked/Component/Archives
+	url = https://github.com/donaldinou/nuked-module-archives.git
+[submodule "src/Nuked/Component/Admin"]
+	path = src/Nuked/Component/Admin
+	url = https://github.com/donaldinou/nuked-module-admin.git
+[submodule "src/Nuked/Component/404"]
+	path = src/Nuked/Component/404
+	url = https://github.com/donaldinou/nuked-module-404.git
+[submodule "src/Nuked/Component/Members"]
+	path = src/Nuked/Component/Members
+	url = https://github.com/donaldinou/nuked-module-members.git
+[submodule "src/Nuked/Component/Links"]
+	path = src/Nuked/Component/Links
+	url = https://github.com/donaldinou/nuked-module-links.git
+[submodule "src/Nuked/Component/Irc"]
+	path = src/Nuked/Component/Irc
+	url = https://github.com/donaldinou/nuked-module-irc.git
+[submodule "src/Nuked/Component/Guestbook"]
+	path = src/Nuked/Component/Guestbook
+	url = https://github.com/donaldinou/nuked-module-guestbook.git
+[submodule "src/Nuked/Component/Gallery"]
+	path = src/Nuked/Component/Gallery
+	url = https://github.com/donaldinou/nuked-module-gallery.git
+[submodule "src/Nuked/Component/Forum"]
+	path = src/Nuked/Component/Forum
+	url = https://github.com/donaldinou/nuked-module-forum.git
+[submodule "src/Nuked/Component/Download"]
+	path = src/Nuked/Component/Download
+	url = https://github.com/donaldinou/nuked-module-download.git
