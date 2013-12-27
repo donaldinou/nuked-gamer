@@ -1,0 +1,19 @@
+{
+    "name": "nuked-klan/gamer-standard-edition",
+    "description": "CMS for Gamers",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Adrien Loyant",
+            "email": "adrien.loyant@te-laval.fr"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
