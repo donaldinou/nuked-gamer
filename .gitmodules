@@ -28,8 +28,8 @@
 [submodule "modules/Gallery"]
 	path = modules/Gallery
 	url = https://github.com/donaldinou/nuked-module-gallery.git
-[submodule "modules/guestbook"]
-	path = modules/guestbook
+[submodule "modules/Guestbook"]
+	path = modules/Guestbook
 	url = https://github.com/donaldinou/nuked-module-guestbook.git
 [submodule "modules/Irc"]
 	path = modules/Irc
