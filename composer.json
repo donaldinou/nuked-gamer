@@ -1,19 +1,63 @@
 {
     "name": "nuked-klan/gamer-core",
     "description": "CMS for Gamers",
+    "version": "1.7.9",
+    "type": "library",
+    "keywords": ["nuked", "klan", "gamer"],
     "license": "GPL-2.0+",
     "authors": [
         {
+            "name": "Nuked-Klan Team",
+            "homepage": "http://www.nuked-klan.org/"
+        },
+        {
             "name": "Adrien Loyant",
-            "email": "adrien.loyant@te-laval.fr"
+            "email": "donald_duck@team-df.org",
+            "role": "Package maintainer"
         }
     ],
-    "autoload": {
-        "psr-0": { "": "src/" }
-    },
     "require": {
         "php": ">=5.3.3"
     },
+    "replace": {
+        "nuked-klan/nuked-module-404": "self.version",
+        "nuked-klan/nuked-module-admin": "self.version",
+        "nuked-klan/nuked-module-archives": "self.version",
+        "nuked-klan/nuked-module-calendar": "self.version",
+        "nuked-klan/nuked-module-comment": "self.version",
+        "nuked-klan/nuked-module-contact": "self.version",
+        "nuked-klan/nuked-module-defy": "self.version",
+        "nuked-klan/nuked-module-download": "self.version",
+        "nuked-klan/nuked-module-forum": "self.version",
+        "nuked-klan/nuked-module-gallery": "self.version",
+        "nuked-klan/nuked-module-guestbook": "self.version",
+        "nuked-klan/nuked-module-irc": "self.version",
+        "nuked-klan/nuked-module-links": "self.version",
+        "nuked-klan/nuked-module-members": "self.version",
+        "nuked-klan/nuked-module-news": "self.version",
+        "nuked-klan/nuked-module-recruit": "self.version",
+        "nuked-klan/nuked-module-search": "self.version",
+        "nuked-klan/nuked-module-sections": "self.version",
+        "nuked-klan/nuked-module-server": "self.version",
+        "nuked-klan/nuked-module-stats": "self.version",
+        "nuked-klan/nuked-module-suggest": "self.version",
+        "nuked-klan/nuked-module-survey": "self.version",
+        "nuked-klan/nuked-module-team": "self.version",
+        "nuked-klan/nuked-module-textbox": "self.version",
+        "nuked-klan/nuked-module-user": "self.version",
+        "nuked-klan/nuked-module-userbox": "self.version",
+        "nuked-klan/nuked-module-vote": "self.version",
+        "nuked-klan/nuked-module-wars": "self.version"
+    },
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "target-dir": "UPLOAD",
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.7.9"
+        }
+    }
 }
