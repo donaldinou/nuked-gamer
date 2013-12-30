@@ -1,0 +1,84 @@
+[submodule "modules/404"]
+	path = modules/404
+	url = https://github.com/donaldinou/nuked-module-404.git
+[submodule "modules/Admin"]
+	path = modules/Admin
+	url = https://github.com/donaldinou/nuked-module-admin.git
+[submodule "modules/Archives"]
+	path = modules/Archives
+	url = https://github.com/donaldinou/nuked-module-archives.git
+[submodule "modules/Calendar"]
+	path = modules/Calendar
+	url = https://github.com/donaldinou/nuked-module-calendar.git
+[submodule "modules/Comment"]
+	path = modules/Comment
+	url = https://github.com/donaldinou/nuked-module-comment.git
+[submodule "modules/Contact"]
+	path = modules/Contact
+	url = https://github.com/donaldinou/nuked-module-contact.git
+[submodule "modules/Defy"]
+	path = modules/Defy
+	url = https://github.com/donaldinou/nuked-module-defy.git
+[submodule "modules/Download"]
+	path = modules/Download
+	url = https://github.com/donaldinou/nuked-module-download.git
+[submodule "modules/Forum"]
+	path = modules/Forum
+	url = https://github.com/donaldinou/nuked-module-forum.git
+[submodule "modules/Gallery"]
+	path = modules/Gallery
+	url = https://github.com/donaldinou/nuked-module-gallery.git
+[submodule "modules/Guestbook"]
+	path = modules/Guestbook
+	url = https://github.com/donaldinou/nuked-module-guestbook.git
+[submodule "modules/Irc"]
+	path = modules/Irc
+	url = https://github.com/donaldinou/nuked-module-irc.git
+[submodule "modules/Links"]
+	path = modules/Links
+	url = https://github.com/donaldinou/nuked-module-links.git
+[submodule "modules/Members"]
+	path = modules/Members
+	url = https://github.com/donaldinou/nuked-module-members.git
+[submodule "modules/News"]
+	path = modules/News
+	url = https://github.com/donaldinou/nuked-module-news.git
+[submodule "modules/Recruit"]
+	path = modules/Recruit
+	url = https://github.com/donaldinou/nuked-module-recruit.git
+[submodule "modules/Search"]
+	path = modules/Search
+	url = https://github.com/donaldinou/nuked-module-search.git
+[submodule "modules/Sections"]
+	path = modules/Sections
+	url = https://github.com/donaldinou/nuked-module-sections.git
+[submodule "modules/Server"]
+	path = modules/Server
+	url = https://github.com/donaldinou/nuked-module-server.git
+[submodule "modules/Stats"]
+	path = modules/Stats
+	url = https://github.com/donaldinou/nuked-module-stats.git
+[submodule "modules/Suggest"]
+	path = modules/Suggest
+	url = https://github.com/donaldinou/nuked-module-suggest.git
+[submodule "modules/Survey"]
+	path = modules/Survey
+	url = https://github.com/donaldinou/nuked-module-survey.git
+[submodule "modules/Team"]
+	path = modules/Team
+	url = https://github.com/donaldinou/nuked-module-team.git
+[submodule "modules/Textbox"]
+	path = modules/Textbox
+	url = https://github.com/donaldinou/nuked-module-textbox.git
+[submodule "modules/User"]
+	path = modules/User
+	url = https://github.com/donaldinou/nuked-module-user.git
+[submodule "modules/Userbox"]
+	path = modules/Userbox
+	url = https://github.com/donaldinou/nuked-module-userbox.git
+[submodule "modules/Vote"]
+	path = modules/Vote
+	url = https://github.com/donaldinou/nuked-module-vote.git
+[submodule "modules/Wars"]
+	path = modules/Wars
+	url = https://github.com/donaldinou/nuked-module-wars.git
