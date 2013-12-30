@@ -40,3 +40,45 @@
 [submodule "src/Nuked/Component/Download"]
 	path = src/Nuked/Component/Download
 	url = https://github.com/donaldinou/nuked-module-download.git
+[submodule "src/Nuked/Component/Suggest"]
+	path = src/Nuked/Component/Suggest
+	url = https://github.com/donaldinou/nuked-module-suggest.git
+[submodule "src/Nuked/Component/Search"]
+	path = src/Nuked/Component/Search
+	url = https://github.com/donaldinou/nuked-module-search.git
+[submodule "src/Nuked/Component/Sections"]
+	path = src/Nuked/Component/Sections
+	url = https://github.com/donaldinou/nuked-module-sections.git
+[submodule "src/Nuked/Component/Server"]
+	path = src/Nuked/Component/Server
+	url = https://github.com/donaldinou/nuked-module-server.git
+[submodule "src/Nuked/Component/Stats"]
+	path = src/Nuked/Component/Stats
+	url = https://github.com/donaldinou/nuked-module-stats.git
+[submodule "src/Nuked/Component/Recruit"]
+	path = src/Nuked/Component/Recruit
+	url = https://github.com/donaldinou/nuked-module-recruit.git
+[submodule "src/Nuked/Component/News"]
+	path = src/Nuked/Component/News
+	url = https://github.com/donaldinou/nuked-module-news.git
+[submodule "src/Nuked/Component/Wars"]
+	path = src/Nuked/Component/Wars
+	url = https://github.com/donaldinou/nuked-module-wars.git
+[submodule "src/Nuked/Component/Vote"]
+	path = src/Nuked/Component/Vote
+	url = https://github.com/donaldinou/nuked-module-vote.git
+[submodule "src/Nuked/Component/Userbox"]
+	path = src/Nuked/Component/Userbox
+	url = https://github.com/donaldinou/nuked-module-userbox.git
+[submodule "src/Nuked/Component/User"]
+	path = src/Nuked/Component/User
+	url = https://github.com/donaldinou/nuked-module-user.git
+[submodule "src/Nuked/Component/Textbox"]
+	path = src/Nuked/Component/Textbox
+	url = https://github.com/donaldinou/nuked-module-textbox.git
+[submodule "src/Nuked/Component/Team"]
+	path = src/Nuked/Component/Team
+	url = https://github.com/donaldinou/nuked-module-team.git
+[submodule "src/Nuked/Component/Survey"]
+	path = src/Nuked/Component/Survey
+	url = https://github.com/donaldinou/nuked-module-survey.git
