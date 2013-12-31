@@ -62,5 +62,5 @@
         "post-update-cmd": [
             "git submodule init"
         ]
-    },
+    }
 }
