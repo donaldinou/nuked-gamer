@@ -18,6 +18,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
+        "nuked-klan/nuked-composer-installer": "dev-master",
         "nuked-klan/nuked-module-404": "self.version",
         "nuked-klan/nuked-module-admin": "self.version",
         "nuked-klan/nuked-module-archives": "self.version",
