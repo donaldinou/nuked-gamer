@@ -54,5 +54,13 @@
     },
     "target-dir": "UPLOAD",
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "scripts": {
+        "post-install-cmd": [
+            "git submodule init"
+        ],
+        "post-update-cmd": [
+            "git submodule init"
+        ]
+    },
 }
