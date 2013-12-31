@@ -52,7 +52,6 @@
     "autoload": {
         "psr-0": { "": "src/" }
     },
-    "target-dir": "UPLOAD",
     "minimum-stability": "dev",
     "prefer-stable": true,
     "scripts": {
