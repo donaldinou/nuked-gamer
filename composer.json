@@ -57,10 +57,12 @@
     "prefer-stable": true,
     "scripts": {
         "post-install-cmd": [
-            "git submodule init"
+            "git submodule init",
+            "git submodule update"
         ],
         "post-update-cmd": [
-            "git submodule init"
+            "git submodule init",
+            "git submodule update"
         ]
     }
 }
